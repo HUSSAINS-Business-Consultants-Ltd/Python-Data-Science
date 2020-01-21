@@ -1,4 +1,4 @@
-# Python Data Science Handbook
+# Python Data Science 
 
 Developer: <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
